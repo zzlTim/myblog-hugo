@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on ZZL的博客</title>
+        <link>http://localhost:53287/zh-cn/page/</link>
+        <description>Recent content in Pages on ZZL的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53287/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>http://localhost:53287/zh-cn/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:53287/zh-cn/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>博客简介</title>
+        <link>http://localhost:53287/zh-cn/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:53287/zh-cn/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/</guid>
+        <description>&lt;p&gt;作业内容：选择一个感兴趣或擅长的主题来制作一个静态网页博客，比如个人介绍、爱好分享、技术总结等。&lt;/p&gt;
+&lt;p&gt;作业要求：&lt;/p&gt;
+&lt;p&gt;设计至少四个页面来展示博客内容，不限于首页、关于我、文章列表、文章详情等。
+博客排版清晰、内容合理，代码整洁优雅，可读性强。
+附上自己对本次作业的总结及反思，包括但不限于以下内容：（可以放在博客中）
+博客主题及其选取原因
+博客页面布局及其设计思路
+博客功能实现及其技术选择
+博客制作过程中遇到的问题及其解决方法
+本次作业将按照以下几个维度对总结报告和网站内容评分：&lt;/p&gt;
+&lt;p&gt;技术汇报：评价学生利用了哪些技术或工具来实现博客功能，是否能够正常运行和并且足够了解相关技术。
+内容丰富度：评价学生设计了什么样的页面结构来展示博客内容，并且是否有达到足够四个页面的内容。
+博客主题：评价学生选择了什么样的主题来展示自己的兴趣或专长，并且是否能够吸引读者关注，博客页面中存在实质性内容即可通过。
+截止时间：本次作业将于4月8日开始，持续两周，请大家在截止日期（4月22日）上课之前完成并提交作业。&lt;/p&gt;
+&lt;p&gt;提交方式：在此 issue 下给出学号、姓名以及博客仓库链接、博客主页链接、总结报告，例如：&lt;/p&gt;
+&lt;p&gt;12345678 张三
+仓库链接：
+主页链接：
+总结报告：&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>查找</title>
+        <link>http://localhost:53287/zh-cn/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:53287/zh-cn/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>http://localhost:53287/zh-cn/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:53287/zh-cn/%E9%93%BE%E6%8E%A5/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
